@@ -1,18 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.c2d91485.css",
-    "main.js": "/static/js/main.5d5d69fa.js",
+    "main.css": "/static/css/main.c7019f68.css",
+    "main.js": "/static/js/main.f25f8ad8.js",
     "static/js/787.586b53ef.chunk.js": "/static/js/787.586b53ef.chunk.js",
-    "static/media/avtar.png": "/static/media/avtar.25e0550f75dc90a14302.png",
+    "static/media/avtar3.png": "/static/media/avtar3.a6377c7f88f75dac7f2d.png",
+    "static/media/crc.png": "/static/media/crc.04669073fe0d2983bc61.png",
+    "static/media/nrd2.png": "/static/media/nrd2.faf94f3204f68f8f367b.png",
     "static/media/abn.png": "/static/media/abn.31a0352f64088acd191b.png",
+    "static/media/proim.png": "/static/media/proim.6bc15c67cb11913cb451.png",
+    "static/media/nrd1.png": "/static/media/nrd1.31b2efa38c595afee200.png",
+    "static/media/netly.png": "/static/media/netly.59321920009b539a0a14.png",
+    "static/media/csspn.png": "/static/media/csspn.32c35795db68a22f117b.png",
+    "static/media/hticon.png": "/static/media/hticon.a30fa75b7644f60ebdd1.png",
+    "static/media/mongodblogo.png": "/static/media/mongodblogo.b27fd07587987e514a9f.png",
+    "static/media/hurokuicon.png": "/static/media/hurokuicon.6ed5864b6d7cdbb8d45b.png",
+    "static/media/nodejsicon.png": "/static/media/nodejsicon.8bfc79071323173f5f4f.png",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
-    "main.c2d91485.css.map": "/static/css/main.c2d91485.css.map",
-    "main.5d5d69fa.js.map": "/static/js/main.5d5d69fa.js.map",
+    "main.c7019f68.css.map": "/static/css/main.c7019f68.css.map",
+    "main.f25f8ad8.js.map": "/static/js/main.f25f8ad8.js.map",
     "787.586b53ef.chunk.js.map": "/static/js/787.586b53ef.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c2d91485.css",
-    "static/js/main.5d5d69fa.js"
+    "static/css/main.c7019f68.css",
+    "static/js/main.f25f8ad8.js"
   ]
 }

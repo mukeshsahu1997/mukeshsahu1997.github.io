@@ -1,15 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.90b66921.css",
-    "main.js": "/static/js/main.945ef25c.js",
+    "main.css": "/static/css/main.b943dde2.css",
+    "main.js": "/static/js/main.71213867.js",
     "static/js/787.586b53ef.chunk.js": "/static/js/787.586b53ef.chunk.js",
     "static/media/avtar3.png": "/static/media/avtar3.a6377c7f88f75dac7f2d.png",
     "static/media/crc.png": "/static/media/crc.04669073fe0d2983bc61.png",
     "static/media/nrd2.png": "/static/media/nrd2.faf94f3204f68f8f367b.png",
     "static/media/abn.png": "/static/media/abn.31a0352f64088acd191b.png",
     "static/media/proim.png": "/static/media/proim.6bc15c67cb11913cb451.png",
+    "static/media/devim.png": "/static/media/devim.1596c8c2e1233f9e7173.png",
     "static/media/nrd1.png": "/static/media/nrd1.31b2efa38c595afee200.png",
+    "static/media/res1.pdf": "/static/media/res1.54f92a3f6eaeae8ec1df.pdf",
+    "static/media/logo2.png": "/static/media/logo2.873ee1c7a23c0e3ddd30.png",
     "static/media/netly.png": "/static/media/netly.59321920009b539a0a14.png",
+    "static/media/reduxlog.png": "/static/media/reduxlog.8494e296ac098dabfd96.png",
+    "static/media/reduxlogo.png": "/static/media/reduxlogo.8494e296ac098dabfd96.png",
     "static/media/csspn.png": "/static/media/csspn.32c35795db68a22f117b.png",
     "static/media/hticon.png": "/static/media/hticon.a30fa75b7644f60ebdd1.png",
     "static/media/mongodblogo.png": "/static/media/mongodblogo.b27fd07587987e514a9f.png",
@@ -17,12 +22,12 @@
     "static/media/nodejsicon.png": "/static/media/nodejsicon.8bfc79071323173f5f4f.png",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
-    "main.90b66921.css.map": "/static/css/main.90b66921.css.map",
-    "main.945ef25c.js.map": "/static/js/main.945ef25c.js.map",
+    "main.b943dde2.css.map": "/static/css/main.b943dde2.css.map",
+    "main.71213867.js.map": "/static/js/main.71213867.js.map",
     "787.586b53ef.chunk.js.map": "/static/js/787.586b53ef.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.90b66921.css",
-    "static/js/main.945ef25c.js"
+    "static/css/main.b943dde2.css",
+    "static/js/main.71213867.js"
   ]
 }

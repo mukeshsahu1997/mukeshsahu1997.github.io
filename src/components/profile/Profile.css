@@ -1,122 +1,125 @@
 .profilebody {
-    padding-top: 60px;
-    max-width: 100%;
-    background-color: rgb(1, 5, 24);
-  }
+  padding-top: 60px;
+  max-width: 100%;
+  background-color: rgb(1, 5, 24);
+}
+.profilecard {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  max-width: 80%;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 30px;
+}
+.lgimg {
+  width: 120px;
+}
+.hithere {
+  color: rgb(252, 240, 255);
+  font-size: 3rem;
+  text-align: left;
+}
+.nametag {
+  font-size: 45px;
+  color: rgb(255, 240, 251);
+  text-align: left;
+}
+.nametag > span {
+  color: rgb(255, 56, 245);
+}
+.jobs {
+  font-size: 35px;
+  color: rgb(229, 255, 0);
+  text-align: left;
+}
+.avtardiv {
+  background-color: antiquewhite;
+  padding: 10px;
+  border-radius: 50px;
+  /* border-radius: 79% 21% 46% 54% / 42% 60% 60% 58% ; */
+  background-color: rgba(48, 54, 66, 0);
+  box-shadow: rgb(10 102 194) 0px 4px 8px -2px, rgb(10 102 194) 0px 0px 0px 1px;
+}
+.avtardiv > img {
+  border-radius: 50px;
+  /* border-radius: 79% 21% 46% 54% / 42% 40% 60% 58% ; */
+  max-width: 300px;
+}
+.fa-github {
+  color: rgb(255, 255, 255);
+  font-size: 30px;
+  margin-top: 20px;
+}
+.fa-linkedin {
+  color: rgb(10 102 194);
+  font-size: 30px;
+  margin-left: 15px;
+}
+.resumebtn {
+  height: 45px;
+  width: 150px;
+  margin-left: 20px;
+  border: 0px;
+
+  background-color: rgb(56 182 255);
+}
+.resumebtn > a {
+  color: rgb(255, 255, 255);
+  font-size: 1.3rem;
+  text-decoration: none;
+}
+
+@media screen and (max-width: 780px) {
   .profilecard {
-    padding-top: 50px;
+    width: 100%;
+    display: block;
     padding-bottom: 50px;
-    max-width: 75%;
-    margin: auto;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-   
   }
   .hithere {
-    color: rgb(252, 240, 255);
-    font-size: 3rem;
+    text-align: center;
+    color: aliceblue;
+    font-size: 1.8rem;
+  }
+  .avtarifo {
+    text-align: center;
+    width: 100%;
   }
   .nametag {
-    font-size: 45px;
-    color: rgb(255, 240, 251);
+    text-align: center;
+    font-size: 2.8rem;
+    color: aliceblue;
   }
   .nametag > span {
-    color: rgb(255, 56, 245);
+    color: rgb(229, 255, 0);
   }
   .jobs {
-    font-size: 35px;
-    color: rgb(229, 255, 0);
-    
+    text-align: center;
+    font-size: 1.8rem;
+    color: rgb(215, 56, 255);
   }
   .avtardiv {
-    
-    background-color: antiquewhite;
-    padding: 10px;
-    border-radius: 50px;
-    /* border-radius: 79% 21% 46% 54% / 42% 60% 60% 58% ; */
+    width: 50%;
+    margin: auto;
+    margin-top: 25px;
     background-color: rgba(48, 54, 66, 0);
-    box-shadow:rgb(10 102 194) 0px 4px 8px -2px,rgb(10 102 194) 0px 0px 0px 1px;
+    border: 5px solid rgb(56, 136, 255);
+    text-align: center;
   }
   .avtardiv > img {
-    border-radius: 50px;
-    /* border-radius: 79% 21% 46% 54% / 42% 40% 60% 58% ; */
-    max-width: 200px;
-   
+    width: 100%;
   }
-  .fa-github{
-    color: rgb(255, 255, 255);
-    font-size: 30px;
-    margin-top: 20px;
-  }
-  .fa-linkedin{
-    color: rgb(10 102 194);
-    font-size: 30px;
-    margin-left: 15px;
-  }
-  .resumebtn{
-    height: 45px;
-    width:150px;
+  .resumebtn {
+    width: 100px;
     margin-left: 20px;
     border: 0px;
-   
-    background-color:  rgb(56 182 255);
+
+    background-color: rgb(56 182 255);
   }
-  .resumebtn>a{
-    color:  rgb(255, 255, 255);
-   font-size: 1.3rem;
+  .resumebtn > a {
+    color: rgb(255, 255, 255);
+    font-size: 1rem;
     text-decoration: none;
   }
-  
-  
-  @media screen and (max-width: 780px) {
-    .profilecard {
-      width: 100%;
-      display: block;
-      padding-bottom: 50px;
-  
-    }
-    .hithere {
-      color: aliceblue;
-      font-size: 1rem;
-    }
-    .avtarifo {
-      width: 100%;
-    }
-    .nametag {
-      font-size: 1.5rem;
-      color: aliceblue;
-    }
-    .nametag > span {
-      color: rgb(56 182 255);
-    }
-    .jobs {
-      font-size: 1rem;
-      color: rgb(56 182 255);
-    }
-    .avtardiv {
-      width: 175px;
-      margin-left: 80px;
-      margin-top: 25px;
-      background-color: rgba(48, 54, 66, 0);
-      border: 5px solid rgb(56, 136, 255);
-    }
-    .avtardiv > img {
-      
-      width: 100%;
-    }
-    .resumebtn{
-      
-      width:100px;
-      margin-left: 20px;
-      border: 0px;
-    
-      background-color:  rgb(56 182 255);
-    }
-    .resumebtn>a{
-      color:  rgb(255, 255, 255);
-     font-size: 1rem;
-      text-decoration: none;
-    }
-  }
-  
+}
